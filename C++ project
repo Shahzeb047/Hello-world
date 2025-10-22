@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int maina(){
+int main(){
 cout<<"Hello world";
 return 0;
 }
